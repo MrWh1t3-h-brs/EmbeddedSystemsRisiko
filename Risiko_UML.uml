@@ -7,8 +7,8 @@ File4=Weltkarte.java
 File5=Wuerfel.java
 
 [Box:  - Gebiet]
-X=419
-Y=250
+X=398
+Y=247
 MinVis=0
 ShowParameter=4
 SortOrder=0
